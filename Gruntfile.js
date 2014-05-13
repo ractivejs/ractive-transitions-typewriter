@@ -26,8 +26,8 @@ module.exports = function ( grunt ) {
 
 		concat: {
 			bundle: {
-				src: 'src/Ractive-transitions-typewriter.js',
-				dest: 'tmp/Ractive-transitions-typewriter.js'
+				src: 'src/ractive-transitions-typewriter.js',
+				dest: 'tmp/ractive-transitions-typewriter.js'
 			},
 			options: {
 				process: {
@@ -44,8 +44,8 @@ module.exports = function ( grunt ) {
 
 		uglify: {
 			bundle: {
-				src: 'tmp/Ractive-transitions-typewriter.js',
-				dest: 'tmp/Ractive-transitions-typewriter.min.js'
+				src: 'tmp/ractive-transitions-typewriter.js',
+				dest: 'tmp/ractive-transitions-typewriter.min.js'
 			}
 		},
 
@@ -59,7 +59,7 @@ module.exports = function ( grunt ) {
 				}]
 			}
 		}
-		
+
 	});
 
 	grunt.loadNpmTasks( 'grunt-contrib-jshint' );

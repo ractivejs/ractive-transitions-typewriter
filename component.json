@@ -1,16 +1,16 @@
 {
 	"name": "ractive-transitions-typewriter",
-	"repo": "RactiveJS/Ractive-transitions-typewriter",
-	"description": "Ractive-transitions-typewriter",
+	"repo": "ractivejs/ractive-transitions-typewriter",
+	"description": "ractive-transitions-typewriter",
 	"version": "0.1.1",
 	"keywords": [],
 	"dependencies": {
-		"RactiveJS/Ractive": "0.3.9"
+		"ractivejs/ractive": "~0.4.0"
 	},
 	"development": {},
 	"license": "MIT",
-	"main": "Ractive-transitions-typewriter.js",
+	"main": "ractive-transitions-typewriter.js",
 	"scripts": [
-		"Ractive-transitions-typewriter.js"
+		"ractive-transitions-typewriter.js"
 	]
 }

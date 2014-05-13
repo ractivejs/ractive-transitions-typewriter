@@ -1,4 +1,4 @@
-// Ractive-transitions-typewriter tests
+// ractive-transitions-typewriter tests
 // ==============================
 
 (function () {
