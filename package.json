@@ -1,13 +1,13 @@
 {
 	"name": "ractive-transitions-typewriter",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"author": {
 		"name": "Rich Harris"
 	},
 	"main": "ractive-transitions-typewriter.js",
 	"description": "Typewriter transition plugin for Ractive.js",
 	"dependencies": {
-		"ractive": "~0.4.0"
+		"ractive": "^0.5.7"
 	},
 	"devDependencies": {
 		"grunt": "~0.4.1",
