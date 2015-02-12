@@ -1,30 +1,14 @@
 {
 	"name": "ractive-transitions-typewriter",
-	"version": "0.1.1",
+	"version": "0.2.0-edge",
 	"author": "Rich Harris",
-	"main": "ractive-transitions-typewriter.js",
-	"dependencies": {
-		"ractive": "~0.4.0"
-	},
-	"devDependencies": {
-		"qunit": "~1.14.0",
-		"simulant": "~0.1.0",
-		"ractive-events-tap": "~0.1.1"
-	},
+	"main": "dist/ractive-transitions-typewriter.js",
 	"ignore": [
-		".git/",
-		"demo/",
-		"grunt/",
-		"lib/",
-		"src/",
-		"test/",
-		".gitignore",
-		"bower.json",
-		"component.json",
-		"Gruntfile.js",
-		"index.html",
-		"package.json",
-		"ractive-transitions-typewriter.min.js",
-		"README.md"
+		".*",
+		"*.json",
+		"node_modules",
+		"demo",
+		"scripts",
+		"test"
 	]
 }
