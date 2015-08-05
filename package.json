@@ -1,6 +1,6 @@
 {
   "name": "ractive-transitions-typewriter",
-  "version": "0.2.0-edge",
+  "version": "0.2.0",
   "author": "Rich Harris",
   "license": "MIT",
   "repository": "https://github.com/ractivejs/ractive-transitions-typewriter",
